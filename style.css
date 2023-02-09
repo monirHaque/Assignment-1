@@ -213,12 +213,11 @@
 }
 
 .bonus{
-    background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0)100%), url(./asset/images/watch.png);
-    margin-left: 270px;
-    margin-bottom: 120px;
-    height: 200px;
-    width: 850px;
-    border-radius: 8px;
+    margin: 200px 200px;
+    height: 300px;
+    background-image: url(../asset/images/gradient2.png),url(asset/images/watch.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position: left right,left right;
 }
 
 .bonus-title{
@@ -226,8 +225,8 @@
     font-weight: 700;
     font-size: 40px;
     width: 60%;
-    padding-top: 25px;
-    padding-bottom: 15px;
+    padding-top: 65px;
+    padding-bottom: 5px;
     padding-left: 30px;
     margin-bottom: 0;
 }
