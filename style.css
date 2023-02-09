@@ -212,8 +212,8 @@
     font-size: 30px;
 }
 
-.bonus {
-    background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0)100%), url(/asset/images/watch.png);
+.bonus{
+    background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0)100%), url(./asset/images/watch.png);
     margin-left: 270px;
     margin-bottom: 120px;
     height: 200px;
@@ -221,7 +221,7 @@
     border-radius: 8px;
 }
 
-.bonus-title {
+.bonus-title{
     color: white;
     font-weight: 700;
     font-size: 40px;
@@ -232,7 +232,7 @@
     margin-bottom: 0;
 }
 
-.second-btn {
+.btn-second{
     width: 140px;
     height: 50px;
     background-color: white;
