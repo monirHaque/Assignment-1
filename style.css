@@ -74,3 +74,46 @@
     align-content: right;
     float: right;
 }
+
+/* Service Styles */
+
+.service-container{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+}
+
+.service-container li{
+
+    list-style: none;
+}
+
+.service-left-container{
+    margin-top: 80px;
+    padding-left: 220px;
+}
+
+
+.service-right-container{
+    padding-right: 200px;
+    padding-left: 50px;
+    margin-top: 120px;
+}
+
+.service-title-container{
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 10px;
+
+}
+
+.service-sub-container{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 20px;
+
+}
