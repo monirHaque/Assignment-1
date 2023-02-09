@@ -120,6 +120,12 @@
     text-align: center;
 }
 
+.section-title{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
 .skills-container{
     display: flex;
     align-content: center;
