@@ -213,7 +213,7 @@
 }
 
 .bonus{
-    background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0)100%), url(./asset/images/watch.png);
+    background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0)100%), url(../asset/images/watch.png);
     margin-left: 270px;
     margin-bottom: 120px;
     height: 200px;
