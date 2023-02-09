@@ -3,16 +3,11 @@
     margin: 0px;
 }
 
-
-
-
 .nav-container{
     display: flex;
     padding: 25px;
     justify-content: space-around;
     background-color: #E8E8E8;
-
-    
 }
 
 .items{
@@ -142,9 +137,8 @@
 
 .skill-title{
     font-size: 30px;
-    line-height: 35px;s
+    line-height: 35px;
     text-align: center;
-
 }
 
 /* * Footer */
@@ -154,7 +148,6 @@
     width: 100%;
     height: 50vh;
     background-color: black;
-
 }
 
 .footer-details{
@@ -167,7 +160,6 @@
 }
 
 .main-container{
-
     font-size: 50px;
 }
 
@@ -204,7 +196,6 @@
     margin-top: 40px;
     height: 60px;
     font-size: 25px;
-
 }
 
 .subs-title{
@@ -212,5 +203,4 @@
     padding-left: 250px;
     padding-top: 100px;
     font-size: 30px;
-
 }
